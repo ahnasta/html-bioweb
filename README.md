@@ -1,36 +1,55 @@
-# HTML Biodata Website
+#  HTML Biodata Website
 
-This is my first personal website built using **HTML** only
-It’s a simple biodata page that shows my profile, contact info, and a contact form — made to understand **HTML tags, structure, and form elements**
+A simple biodata website built using **HTML** only  
+This project was created as part of my learning journey in web development at **SMK Telkom Malang**, focusing on **HTML tags, structure, and forms**.
+
+> 🌷 “Every tag I write helps me understand how a website comes alive”
+
 ---
 
-## 💻 About the Project
-This website was created as part of my learning in **web development basics**
-It helped me understand how to organize HTML structure properly and create readable, meaningful content
+## 💻 About This Project
+This website displays basic personal information, contact details, and a simple form.  
+The goal is to learn how to build a well-structured and readable web page using HTML fundamentals.
+
 ---
 
 ## ✨ Features
-- Personal profile (name, major, school)  
-- Contact section with clickable email & Instagram link  
-- Contact form with input and message fields  
-- Footer with copyright info  
+- 🪞 **Profile Section** — Displays name, major, and school  
+- 💌 **Contact Info** — Email and Instagram link with clickable username  
+- 🧾 **Contact Form** — Simple input fields for name, email, and message  
+- 🎀 **Footer** — Personalized copyright and closing note  
+
 ---
 
 ## 🧠 What I Learned
-- How to use basic HTML tags (`<p>`, `<a>`, `<img>`, `<form>`)  
-- How to structure a page using `<header>`, `<section>`, and `<footer>`  
-- How to build a simple form with `<label>` and `<input>`  
-- How to make links and organize elements neatly  
----
-
-## 🎨 Next Step
-I plan to improve this project with **CSS styling** to make it look more aesthetic and responsive,  
-using my favorite pastel color palette 💖
+- Understanding how HTML elements are structured using `<header>`, `<section>`, and `<footer>`  
+- Building links using `<a>` with `href` and `target` attributes  
+- Creating input forms with `<label>`, `<input>`, and `<textarea>`  
+- Organizing content with semantic and readable code  
 
 ---
 
-## 📫 About Me
-**Name:** Ahnasta (Anastasya Putri Aulia)  
-**Interest:** Web Design & Front-End Development  
-📷 [Instagram](https://instagram.com/oioioyuu) • 💼 [GitHub](https://github.com/ahnasta)
+## 🎨 Future Improvements
+In the next step, I plan to:
+- Add **CSS styling** for color, layout, and typography  
+- Make the website **responsive** for mobile and desktop screens  
+- Use my signature pastel pink `#E9CDD0` for a soft and elegant theme  
 
+---
+
+## 🖥️ Preview
+🔗 **Live Demo:** [View My Website on GitHub Pages](https://ahnasta.github.io/html-bioweb/)  
+
+---
+
+## 🛠️ Tools Used
+- HTML5  
+- Visual Studio Code  
+- GitHub Pages (for hosting)
+
+---
+
+<p align="center">
+  🌸 Made by Ahnasta
+  <br>© 2025 Ahnasta | SMK Telkom Malang
+</p>
