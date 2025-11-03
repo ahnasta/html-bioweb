@@ -3,7 +3,7 @@
 A simple biodata website built using **HTML** only  
 This project was created as part of my learning journey in web development at **SMK Telkom Malang**, focusing on **HTML tags, structure, and forms**.
 
-> 🌷 “Every tag I write helps me understand how a website comes alive”
+> “Every tag I write helps me understand how a website comes alive”
 
 ---
 
@@ -33,8 +33,7 @@ The goal is to learn how to build a well-structured and readable web page using 
 In the next step, I plan to:
 - Add **CSS styling** for color, layout, and typography  
 - Make the website **responsive** for mobile and desktop screens  
-- Use my signature pastel pink `#E9CDD0` for a soft and elegant theme  
-
+- Use my signature pastel pink `#E9CDD0` 
 ---
 
 ## 🖥️ Preview
