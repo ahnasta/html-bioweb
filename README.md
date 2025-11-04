@@ -1,15 +1,15 @@
 #  HTML Biodata Website
 
 A simple biodata website built using **HTML** only  
-This project was created as part of my learning journey in web development at **SMK Telkom Malang**, focusing on **HTML : tags, structure, and forms**.
+This project was created as part of my learning journey in web development, focusing on **HTML : tags, structure, and forms**
 
 > “Every tag I write helps me understand how a website comes alive”
 
 ---
 
 ## 💻 About This Project
-This website displays basic personal information, contact details, and a simple form.  
-The goal is to learn how to build a well-structured and readable web page using HTML fundamentals.
+This website displays basic personal information, contact details, and a simple form
+The goal is to learn how to build a well-structured and readable web page using HTML fundamentals
 
 ---
 
@@ -45,5 +45,5 @@ In the next step, I plan to:
 
 <p align="center">
   🌸 Made by Ahnasta
-  <br>© 2025 Ahnasta | SMK Telkom Malang
+  <br>© 2025 Ahnasta Poetri 
 </p>
